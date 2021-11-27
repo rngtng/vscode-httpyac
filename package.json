@@ -564,7 +564,7 @@
           ],
           "default": "body",
           "scope": "resource",
-          "description": "content of respnse view"
+          "description": "content of response view"
         },
         "httpyac.logLevel": {
           "type": "string",
